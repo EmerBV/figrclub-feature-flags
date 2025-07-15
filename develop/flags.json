@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-07-15T07:54:22.252Z",
+  "lastUpdated": "2025-07-15T10:11:07.434Z",
   "flags": {
     "biometric_auth": 1,
     "social_login": 0,
@@ -37,6 +37,7 @@
     "beta_feature_1": 0,
     "beta_feature_2": 0,
     "experimental_ui": 0,
-    "paypal_payment": 0
+    "paypal_payment": 0,
+    "app_logo": 0
   }
 }
